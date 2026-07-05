@@ -1,3 +1,0 @@
-[console_scripts]
-listener = first_package.subscribe:main
-talker = first_package.publisher:main
